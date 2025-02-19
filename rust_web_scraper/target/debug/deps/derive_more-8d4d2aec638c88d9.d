@@ -1,0 +1,10 @@
+/mnt/c/Users/themi/Desktop/Schule/INFI/Dashboard-Energy-Control/rust_web_scraper/target/debug/deps/libderive_more-8d4d2aec638c88d9.so: /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/lib.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/syn_compat.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/utils.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/add_assign_like.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/add_helpers.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/add_like.rs
+
+/mnt/c/Users/themi/Desktop/Schule/INFI/Dashboard-Energy-Control/rust_web_scraper/target/debug/deps/derive_more-8d4d2aec638c88d9.d: /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/lib.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/syn_compat.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/utils.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/add_assign_like.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/add_helpers.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/add_like.rs
+
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/lib.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/syn_compat.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/utils.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/add_assign_like.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/add_helpers.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-0.99.19/src/add_like.rs:
