@@ -1,1 +1,1 @@
-/mnt/c/Users/themi/Desktop/Schule/INFI/Dashboard-Energy-Control/rust_web_scraper/target/debug/rust_web_scraper: /mnt/c/Users/themi/Desktop/Schule/INFI/Dashboard-Energy-Control/rust_web_scraper/src/main.rs
+/home/daniel/Dashboard-Energy-Control/rust_web_scraper/target/debug/rust_web_scraper: /home/daniel/Dashboard-Energy-Control/rust_web_scraper/src/main.rs

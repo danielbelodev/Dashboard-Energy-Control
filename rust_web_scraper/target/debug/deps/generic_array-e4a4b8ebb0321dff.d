@@ -1,0 +1,11 @@
+/home/daniel/Dashboard-Energy-Control/rust_web_scraper/target/debug/deps/libgeneric_array-e4a4b8ebb0321dff.rmeta: /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/lib.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/hex.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/impls.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/arr.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/functional.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/iter.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/sequence.rs
+
+/home/daniel/Dashboard-Energy-Control/rust_web_scraper/target/debug/deps/generic_array-e4a4b8ebb0321dff.d: /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/lib.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/hex.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/impls.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/arr.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/functional.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/iter.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/sequence.rs
+
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/lib.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/hex.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/impls.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/arr.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/functional.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/iter.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/sequence.rs:

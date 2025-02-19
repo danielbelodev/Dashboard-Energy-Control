@@ -1,0 +1,10 @@
+/home/daniel/Dashboard-Energy-Control/rust_web_scraper/target/debug/deps/libminiz_oxide-6e5fb3f823bea0e0.rmeta: /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/lib.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/mod.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/core.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/output_buffer.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/stream.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/shared.rs
+
+/home/daniel/Dashboard-Energy-Control/rust_web_scraper/target/debug/deps/miniz_oxide-6e5fb3f823bea0e0.d: /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/lib.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/mod.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/core.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/output_buffer.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/stream.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/shared.rs
+
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/lib.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/mod.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/core.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/output_buffer.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/inflate/stream.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.4/src/shared.rs:

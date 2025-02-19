@@ -1,0 +1,11 @@
+/home/daniel/Dashboard-Energy-Control/rust_web_scraper/target/debug/deps/libaddr2line-bbc7457108746301.rmeta: /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lib.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/frame.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/function.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lazy.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/line.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lookup.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/unit.rs
+
+/home/daniel/Dashboard-Energy-Control/rust_web_scraper/target/debug/deps/addr2line-bbc7457108746301.d: /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lib.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/frame.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/function.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lazy.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/line.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lookup.rs /home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/unit.rs
+
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lib.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/frame.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/function.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lazy.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/line.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/lookup.rs:
+/home/daniel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/addr2line-0.24.2/src/unit.rs:
